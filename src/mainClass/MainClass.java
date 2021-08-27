@@ -23,7 +23,7 @@ public class MainClass {
 			case 2:
 				break;
 			case 3:
-				ca.createAcc();
+				ca.createAcc(); //회원가입 메서드 실행!
 				break;
 
 			}
